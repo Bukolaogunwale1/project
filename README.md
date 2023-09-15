@@ -56,6 +56,7 @@ git project
  **`git remote add origin`**
  **`git push origin master`**
  **`git clone `**
+ 
  <img width="465" alt="8" src="https://github.com/Bukolaogunwale1/project/assets/122865359/7da6809a-d23b-432d-9467-17c3a3f873da">
 
  # Heading
