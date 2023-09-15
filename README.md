@@ -97,7 +97,7 @@ I used 'git checkout -b zholar'
  <img width="572" alt="cloned copy" src="https://github.com/Bukolaogunwale1/project/assets/122865359/37b9199b-a8b8-4ade-b2e3-39717dacb022">
 
 6. ## code
-7. `console.log('welcome to darey.io')`
+ `console.log('welcome to darey.io')`
  
 
 
